@@ -40,7 +40,7 @@
     "knex": "^0.16.2",
     "lodash": "^4.17.10",
     "loud-rejection": "^1.6.0",
-    "lozad": "^1.4.0",
+    "lozad": "^1.9.0",
     "lru-cache": "^5.1.1",
     "markdown-it": "^8.4.1",
     "markdown-it-lozad": "^0.2.0",
