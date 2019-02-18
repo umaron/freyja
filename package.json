@@ -35,7 +35,7 @@
     "fs-extra": "^7.0.0",
     "fundebug-nodejs": "0.1.0",
     "helmet": "^3.12.1",
-    "http-errors": "^1.7.1",
+    "http-errors": "^1.7.2",
     "ioredis": "^4.0.0",
     "knex": "^0.16.2",
     "lodash": "^4.17.10",
