@@ -55,7 +55,7 @@
     "mysql2": "^1.5.3",
     "node-sass": "^4.9.3",
     "nodemailer": "^4.6.5",
-    "prismjs": "^1.14.0",
+    "prismjs": "^1.16.0",
     "randomstring": "^1.1.5",
     "sass-loader": "^7.0.1",
     "serve-favicon": "^2.5.0",
